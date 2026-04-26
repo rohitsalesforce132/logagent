@@ -26,7 +26,7 @@ This turns Cortex Analyst into a GitHub Copilot Extension that your team can use
 
 You need a publicly accessible HTTPS server. Options:
 
-**Option A: Azure Container Apps (recommended for AT&T)**
+**Option A: Azure Container Apps (recommended for tier-1 carrier)**
 ```bash
 # Build and deploy
 cd copilot-extension
